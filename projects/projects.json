@@ -80,19 +80,19 @@
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "SocialBox Design",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "image": "socialbox",
+    "category": "webdesain",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
       "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "Tokoh Online Sayuran + API ",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "image": "news2",
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
@@ -103,7 +103,7 @@
     "name": "Web UI Clones",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "webuiclones",
-    "category": "mern",
+    "category": "webdesain",
     "links": {
       "view": "https://github.com/jigar-sable/web-ui-clones",
       "code": "https://github.com/jigar-sable/web-ui-clones"
