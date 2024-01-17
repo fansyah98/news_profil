@@ -50,33 +50,33 @@
     }
   },
   {
-    "name": "Flipkart MERN",
+    "name": "Sistem Pakar Untuk Kecanduan Internet Metode Teorema Bayes",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "image": "sispak",
+    "category": "basicweb",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "",
+      "code": ""
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "Sistem Pendukung Keputusan Metode SMART",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "basnaz",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "",
+      "code": ""
     }
   },
   {
-    "name": "React-Projects",
+    "name": "Sistem Pendukung Keputusan Bantuan Desa Metode SMART",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "image": "desaku",
+    "category": "basicweb",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "",
+      "code": ""
     }
   },
   {
